@@ -1,0 +1,25 @@
+Name: Talha Mohammad Ashraf
+Reg no: Bcs203174
+
+Currency Converter App
+This is a Python application that allows you to convert currency using the latest exchange rates fetched from the Open Exchange Rates API.
+Prerequisites
+•	Python 3.6 or above
+•	tkinter and requests modules installed.
+Getting Started
+1.	Clone this repository to your local machine
+2.	Open the terminal and navigate to the project directory
+3.	Run python currency_converter.py to launch the application
+4.	Select the currencies and enter the amount to convert
+5.	Click on the 'Convert' button to get the converted amount
+6.	Click on the 'Reset' button to clear the fields and start over.
+Functionality
+•	Fetches the latest exchange rates from the Open Exchange Rates API
+•	Displays a list of currencies in a dropdown menu
+•	Allows the user to select the currencies and enter the amount to convert
+•	Converts the amount to the selected currency and displays the result on the screen
+•	Allows the user to reset the fields and start over
+Credits
+•	The exchange rates data is fetched from the Open Exchange Rates API.
+
+
